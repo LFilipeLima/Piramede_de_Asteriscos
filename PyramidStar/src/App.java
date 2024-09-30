@@ -7,5 +7,6 @@ public class App {
             }
             System.out.print('\n');
         }
+        System.out.print("\nfinalizado");
     }
 }
